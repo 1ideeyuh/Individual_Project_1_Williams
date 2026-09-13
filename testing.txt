@@ -2,3 +2,4 @@ lydia: This is my message lol
 lydia: my name is lydia
 lydia: So ready to finish this assignment
 lydia: only like 4 more steps to go
+lydia: Ok I lied, still have 5 steps right now
